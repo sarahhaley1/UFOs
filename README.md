@@ -43,7 +43,7 @@ In the upper left-hand corner of the website users can find the words "UFO Sight
 #### Example of filtering the data 
 
 If the user wanted to see all the sigtings in the data table that are in California on 1/4/2010 then the filter inputs and resulting filtered data table would look like :
-![filtered_website](static/images/filtered_wesbite.png)
+![filtered_website](static/images/filtered_wesbite.jpg)
 
 
 The above filter is able to happen due to the script app.js and its functionality within the HTML file. 
