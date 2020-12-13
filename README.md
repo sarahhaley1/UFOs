@@ -33,6 +33,7 @@ To filter specific sightings from the website, the user can input a specific dat
 On the left side of the webpage the user can find the filters with the boxes where the input values are taken and used in filtering what is returned.
 ![filter_input](static/images/filter_input.png)
 
+
 After inserting the last input value the user can press 'Enter' to see the precise resulting data table. 
 
 
@@ -44,7 +45,7 @@ In the upper left-hand corner of the website users can find the words "UFO Sight
 
 If the user wanted to see all the sigtings in the data table that are in California on 1/4/2010 then the filter inputs and resulting filtered data table would look like :
 
-![filtered_website](static/images/filtered_wesbite.jpg)
+![filtered_website](static/images/filtered_webiste.jpg)
 
 
 The above filter is able to happen due to the script app.js and its functionality within the HTML file. 
