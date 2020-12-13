@@ -43,6 +43,7 @@ In the upper left-hand corner of the website users can find the words "UFO Sight
 #### Example of filtering the data 
 
 If the user wanted to see all the sigtings in the data table that are in California on 1/4/2010 then the filter inputs and resulting filtered data table would look like :
+
 ![filtered_website](static/images/filtered_wesbite.jpg)
 
 
@@ -56,11 +57,11 @@ There is a particularly evident drawback to this webpage due to Javascript being
 When inputing a filter if you want to enter a filter for a city name - all letters must be lowercase in order to get the correct filteration. 
 
 If you want to filter for the sightings in the city 'Fresno' - if you type in "Fresno" the data will return:
-[incorrect_filter](static/images/incorrect_filter.png)
+![incorrect_filter](static/images/incorrect_filter.png)
 The filtered data table that is returned is empty because the input "Fresno" does not match any city since it is not correctly formatted. Javascript is a case sensitive langauge so the input format has to match exactly.
 
 The correct filter with input 'fresno' is:
-[!correct_filter](static/images/correct_filter.png)
+![correct_filter](static/images/correct_filter.png)
 
 ### Recommendations for Further Development
 
